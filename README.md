@@ -17,7 +17,7 @@
   * 进入打开的目录的上层目录，然后再进入Installed Packages/目录
   * 下载 Package Control（sublime-package ）并复制到Installed Packages/目录
   * 重启Sublime Text（看到preferences下出现package control即是安装成功）
-  * 
+  
   
 -------------------------------------------------------------------------------
 ## 安装插件
