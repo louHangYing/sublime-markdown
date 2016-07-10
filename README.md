@@ -2,7 +2,7 @@
 ==============================
 ## 安装package control
 ###### 用代码实现安装
-从菜单 View - Show Console 或者 ctrl + ~ 快捷键，调出 console，对于不同版本的sublime分别在console输入以下代码，重启sublime即可生效  
+* 从菜单 View - Show Console 或者 ctrl + ~ 快捷键，调出 console，对于不同版本的sublime分别在console输入以下代码，重启sublime即可生效  
 
 *sublime text 3*  
 
@@ -21,5 +21,5 @@
   
 -------------------------------------------------------------------------------
 ## 安装插件
-选择：Preferences > Package control，打开一个窗口，然后选择：Package Control: Install Package，选择所需插件即可。
+* 选择：Preferences > Package control，打开一个窗口，然后选择：Package Control: Install Package，选择所需插件即可。
 
