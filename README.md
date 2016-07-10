@@ -15,7 +15,8 @@
 
 ####安装package control
 
-__方法一：__用代码实现安装:   
+__方法一：__用代码实现安装
+
 从菜单 View - Show Console 或者 ctrl + ~ 快捷键，调出 console，对于不同版本的sublime分别在console输入以下代码，重启sublime即可生效  
 
 *sublime text 3*
