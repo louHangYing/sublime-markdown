@@ -1,6 +1,17 @@
-# sublime
+# Sublime&Markdown
 ==============================
-## 安装package control
+## Sublime
+ * 安装package control
+ * 安装实用插件
+ * 实用插件的介绍和选择
+ * emmet语法  
+ 
+## Markdown
+ * Markdown基本语法
+ * Markdown工具选择
+
+
+###安装package control
 ###### 用代码实现安装
 * 从菜单 View - Show Console 或者 ctrl + ~ 快捷键，调出 console，对于不同版本的sublime分别在console输入以下代码，重启sublime即可生效  
 
