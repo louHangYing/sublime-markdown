@@ -26,7 +26,7 @@ _方法一：_用代码实现安装:
 
 ```import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')```
 
-** 方法二：用package control安装包实现安装
+_方法二：_用package control安装包实现安装
   * 点击Preferences > Browse Packages菜单
   * 进入打开的目录的上层目录，然后再进入Installed Packages/目录
   * 下载 Package Control（sublime-package ）并复制到Installed Packages/目录
